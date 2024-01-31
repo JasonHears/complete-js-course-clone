@@ -29,6 +29,13 @@
   }
 }
 
+.pagination__label {
+  display: inline-flex;
+  vertical-align: middle;
+  margin-top: 3px;
+  padding: 0 10px;
+}
+
 .copyright {
   color: $color-grey-dark-2;
   font-size: 1.2rem;
